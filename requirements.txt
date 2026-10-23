@@ -1,0 +1,8 @@
+# SalesSight - Core Dependencies
+streamlit>=1.35.0
+pandas>=2.0.0
+plotly>=5.18.0
+openpyxl>=3.1.2
+
+# Optional Big Data Extension (uncomment if running PySpark pipeline)
+# pyspark>=3.4.0
