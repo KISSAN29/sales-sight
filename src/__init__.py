@@ -1,0 +1,3 @@
+"""
+SalesSight package initialization.
+"""
